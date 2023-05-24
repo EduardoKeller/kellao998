@@ -22,8 +22,7 @@
 ##
   
 <div> 
-  a href="https://www.youtube.com/channel/UCpgqqa4gybRakq65pLaefLA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a
- <a href="[https://discord.gg/dgt7GWfrkz](https://discord.gg/5TRY9pKycE)" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="[https://discord.gg/dgt7GWfrkz](https://discord.gg/5TRY9pKycE)" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:kellao_998@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/kellao998/kellao998/blob/output/github-contribution-grid-snake.svg)
