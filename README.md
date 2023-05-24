@@ -23,7 +23,7 @@
   
 <div> 
   <a href="[https://discord.gg/dgt7GWfrkz](https://discord.gg/5TRY9pKycE)" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:kellao_998@hotmail.com"><img src="https://commons.wikimedia.org/wiki/File:Microsoft_Office_Outlook_(2018%E2%80%93present).svg" target="_blank"></a>
+  <a href = "mailto:kellao_998@hotmail.com"><img src="[https://commons.wikimedia.org/wiki/File:Microsoft_Office_Outlook_(2018%E2%80%93present).svg](https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg)" target="_blank"></a>
  
   ![Snake animation](https://github.com/kellao998/kellao998/blob/output/github-contribution-grid-snake.svg)
  
