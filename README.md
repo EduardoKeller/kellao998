@@ -22,7 +22,7 @@
 ##
   
 <div> 
-  <a href="[https://discord.gg/dgt7GWfrkz](https://discord.gg/5TRY9pKycE)" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="[(https://discord.gg/5TRY9pKycE)](https://discord.gg/5TRY9pKycE)" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="mailto:kellao_998@hotmail.com"><img alt="File:Microsoft Office Outlook (2018–present).svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/512px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png?20230309112740" decoding="async" width="45" height="40" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/768px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png?20230309112740 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/1024px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png?20230309112740 2x" data-file-width="35" data-file-height="35"></a>
  
   ![Snake animation](https://github.com/kellao998/kellao998/blob/output/github-contribution-grid-snake.svg)
