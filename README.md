@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Keller
 
 - 👀 Atualmente estou aprendendo HTML e CSS, C#, MAUI, Javascript, Python e MySQL.
-- 🌱 Estou trabalhando com Python e C#
+- 🌱 Estou trabalhando com Python e C#, ajax
 - 📫 Me contate no email kellao_998@hotmail.com
 
 
