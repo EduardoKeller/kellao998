@@ -27,4 +27,4 @@
   <a href="mailto:e.p.keller@hotmail.com"><img alt="Outlook" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/512px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png?20230309112740" width="45" height="40"></a>
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/kellao998/Snake/output/github-contribution-grid-snake.svg)
+![snake animation](https://kellao998.github.io/Snake/github-contribution-grid-snake.svg)
