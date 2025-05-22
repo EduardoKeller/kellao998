@@ -1,3 +1,5 @@
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=RafaelLemosS&color=blue" alt="Visualizações" /> </p>
+
 ## Olá! Eu sou o Keller
 
 - 👀 Atualmente estou aprendendo  Python, SQL, AWS e Javascript,.
