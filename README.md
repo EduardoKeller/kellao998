@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Keller
 
-- 👀 Atualmente estou aprendendo HTML e CSS, C#, Xamarin, Javascript, Python e SQL.
-- 🌱 Estou trabalhando com Python e C#, ajax, Xamarin, json, JavaScript
+- 👀 Atualmente estou aprendendo  Python, SQL, AWS e Javascript,.
+- 🌱 Estou trabalhando com Python e PostgreSQL, AWS e JavaScript
 - 📫 Me contate no email E.p.keller@hotmail.com
 
 
