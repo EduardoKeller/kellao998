@@ -1,49 +1,82 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kellao998/&color=blue" alt="Visualizações" /> </p>
+<h1 align="center">Olá, sou o Eduardo Keller 👋</h1>
 
-## Olá! Eu sou o Keller
+<p align="center">
+  Técnico em TI com experiência em <strong>suporte técnico, QA e desenvolvimento</strong>. Estudando <strong>Python, SQL, AWS e Machine Learning</strong>.  
+  Apaixonado por tecnologia, automação e soluções eficientes.
+</p>
 
-- 👀 Atualmente estou aprendendo  Python, SQL, AWS e Javascript,.
-- 🌱 Estou trabalhando com Python, PostgreSQL, AWS e JavaScript
-- 📫 Me contate no email E.p.keller@hotmail.com
+<p align="center">
+  <a href="mailto:e.p.keller@hotmail.com"><img src="https://img.shields.io/badge/Email-e.p.keller@hotmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://linkedin.com/in/eduardo-pasquali-keller-95818023a"><img src="https://img.shields.io/badge/LinkedIn-Eduardo%20Keller-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://github.com/kellao998"><img src="https://img.shields.io/github/followers/kellao998?style=social"></a>
+</p>
 
+---
 
-<<div align="center">
-  <a href="https://github.com/kellao998">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kellao998&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellao998&layout=compact&langs_count=10&theme=dracula"/>
-  </a>
-</div>
+## 👨‍💻 Sobre mim
 
-<br/>
+- 🎯 Foco em **Python**, **SQL**, **cloud computing (AWS)** e **Machine Learning**
+- 🛠 Experiência em **suporte técnico (N1/N2)** e **QA/manual testing**
+- 💻 Já atuei com **React, Java, Flutter, Quarkus**
+- 📈 Em constante evolução: aprendendo tecnologias modernas e práticas DevOps
+- 🌐 Gosto de aprender com projetos práticos, código limpo e soluções escaláveis
+
+---
+
+## 🧰 Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kellao998&theme=dracula&column=4&margin-w=15&margin-h=15" />
+  <img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img alt="React" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img alt="Flutter" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+  <img alt="Lua" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg">
 </div>
 
-<br/>
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img align="center" alt="Node.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lua" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg">
-  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kellao998&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellao998&layout=compact&langs_count=8&theme=dracula"/>
 </div>
 
-##
+---
 
-<div align="center"> 
-  <a href="https://discord.gg/5TRY9pKycE" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="mailto:e.p.keller@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
-  </a>
-</div>
+## 🏆 Conquistas no GitHub
 
-##
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kellao998&theme=dracula&column=4&margin-w=15&margin-h=15"/>
+</p>
 
-<!-- Snake animation (verifique se o GitHub Pages está configurado corretamente) -->
+---
+
+## 🐍 Snake de Contribuições
+
 ![Snake animation](https://github.com/kellao998/kellao998/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🚀 Projetos em Destaque
+
+- 🔧 [Script de automação em Python](https://github.com/kellao998/nomedoprojeto)
+- 🧪 [Sistema de testes automatizados com Selenium](https://github.com/kellao998/nomedoprojeto)
+- 📦 [API em Java com Quarkus](https://github.com/kellao998/nomedoprojeto)
+
+---
+
+## 📬 Entre em contato
+
+📧 e.p.keller@hotmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/eduardo-pasquali-keller-95818023a)  
+💻 [GitHub](https://github.com/kellao998)  
+🎮 Discord: @seu_user
+
+---
+
+
