@@ -56,12 +56,6 @@
 
 ---
 
-## 🐍 Snake de Contribuições
-
-![Snake animation](https://github.com/kellao998/kellao998/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🚀 Projetos em Destaque
 
 - 🔧 [Script de automação em Python](https://github.com/kellao998/nomedoprojeto)
